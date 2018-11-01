@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+
+# production
+/mqsweep
+
+# misc
+.DS_Store
+npm-debug.log*
+
+# umi
+.umi
+.umi-production
+
+# self
+.history/
+.vscode/
+.idea/
+yarn-error.log
+doc/
